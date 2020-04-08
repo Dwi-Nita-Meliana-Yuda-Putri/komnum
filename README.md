@@ -1,2 +1,0 @@
-# komnum
-komnum
