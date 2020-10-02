@@ -2,42 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-10-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/customization/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-10-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/getting-started/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-10-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/data-privacy/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-10-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/license/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-10-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/contributing/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-10-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/admonition/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-10-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://squidfunk.github.io/mkdocs-material/extensions/footnotes/</loc>
-     <lastmod>2020-06-05</lastmod>
+     <lastmod>2020-10-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
